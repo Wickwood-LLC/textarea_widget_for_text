@@ -1,6 +1,6 @@
-name: Textarea widget for short text fields
+name: Textarea widget for text fields
 type: module
-description: Allows non-long text fields to use the textarea widget on content entry forms.
+description: Allows short (non-long) text fields to use the textarea widget on content entry forms.
 core: 8.x
 package: Field types
 
