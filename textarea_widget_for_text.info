@@ -1,0 +1,6 @@
+name = Textarea widget for text fields
+description = Allows short (non-long) text fields to use the textarea widget on content entry forms.
+core = 7.x
+package = Fields
+
+dependencies[] = text
