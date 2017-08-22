@@ -10,5 +10,5 @@
  * Implements hook_field_widget_info_alter().
  */
 function textarea_widget_for_text_field_widget_info_alter(&$info) {
-  $info['text_textarea']['field_types'][] = 'text';
+  $info['text_textarea']['field types'][] = 'text';
 }
